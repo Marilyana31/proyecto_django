@@ -1,0 +1,53 @@
+#header{
+    background: green;
+    color: #000;
+  }
+  #header a:link, #header a:visited {
+      color: #008900;
+  }
+  #branding h1{
+    color: #000;
+  }
+  
+  .grp-module h2 {
+  background-image: linear-gradient(#e5e5e5,#dbdbdb);
+  
+  }
+  
+  a {
+      color: #008900!important;
+  }
+  
+  a.grp-button {
+      color: white !important;
+  }
+  
+  a:focus, a:hover {
+      color: #000!important;
+  }
+  a.active.selector-chooseall:focus, a.active.selector-clearall:focus,
+  a.active.selector-chooseall:hover, a.active.selector-clearall:hover {
+      color: #000!important;
+  }
+  
+  .grp-object-tools a, .grp-object-tools a.grp-add-link{
+      color: white!important;
+  }
+  
+  #grp-navigation{
+      background-image: linear-gradient(green,green);
+  }
+  
+  #grp-navigation a{
+      color: white!important;
+  }
+  
+  a.grp-button, button.grp-button, input[type="button"].grp-button{
+      background-image:linear-gradient(#008900,#008900);
+      border:1px solid #008900;
+  }
+  
+
+.module caption {
+    background-color: white;
+}
